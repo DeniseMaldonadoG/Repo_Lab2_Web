@@ -1,2 +1,2 @@
-# Repo_Lab2_Web
-Laboratorio 2
+¿Hay cambios en la visualización del sitio web? Porqué se dan estos cambios entre tan pocas líneas de diseño CSS.
+Se puede observar que los textos ya no estan demasiados separados, estos cambios se dan porque se utilizo grid en vez de Flexbox, ya que grid es bidimensional y facilita mas el diseño.
